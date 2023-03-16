@@ -16,5 +16,3 @@ In this project i have used docker-compose and i created a docker-compose.yml fi
 
 "docker-compose up" just by typing this single command our 3 different operating systems having mysql database server, wordpress and joomla are launched, that is the power of docker compose. 
 
-# Thank you ._.
-Vimal sir for providing this training and motivation.
